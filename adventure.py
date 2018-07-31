@@ -1,4 +1,4 @@
-answer = input("Summer has started. Would rather go the beach or to the movies?")
+
 
 if answer == 'beach' or answer == 'go to the beach' or answer == "Beach" or answer ==  "Go to the beach" or answer ==  "Go to the Beach" or answer ==  "BEACH":
     print("                ")
